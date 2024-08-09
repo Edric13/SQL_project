@@ -18,7 +18,7 @@ During a pause in my career, I decided to explore the IT skills that the job mar
 
 **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking. 📊
 # Data Used 📂
-The data I used was provided by the course i followed to complete this project: https://www.youtube.com/watch?v=7mz73uXD9DA 
+The data I used was provided by the course i followed to complete this project from Luke Barousse
 # The analysis 
 1. The first analysis was focusing on the highest paying company names, IT skills and in North America as an analyst
 
