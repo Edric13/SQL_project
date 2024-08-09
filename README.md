@@ -47,6 +47,7 @@ top_paying_job as(
 )
 select *
 from top_paying_job
+limit 100
 ``` 
 ![alt text](image.png)
 
