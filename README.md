@@ -1,18 +1,20 @@
-# SQL_project
+# SQL_projectSQL_project 🚀
+
 # Introduction
-This project is to showcase my data analysis skills with SQL with job market data 
+
+This project showcases my data analysis skills using SQL, diving deep into job market data to uncover valuable insights.
+
 # Background
-During the pause time in my carrier, i decided to spend some time to dive in what are the IT skills that job market demands?? 
-# Tools I used
-- **SQL**: The backbone of my analysis, allowing me to query the database and unearth critical insights.
--**PostgreSQL**: The chosen database management system, ideal for handling the job posting data.
-- **Visual Studio Code**: My go-t for database management and executing SQL queries.
-- **Git & GitHub**: Essential for version
-control and
-sharing
-my SQL scripts and analysis, ensuring
-collaboration and project tracking.
-# Data used
+
+During a pause in my career, I decided to explore the IT skills that the job market demands. It was the perfect time to level up my expertise and stay ahead of the curve! 💡
+
+# Tools I Used 🛠️
+
+**SQL**: The backbone of my analysis, allowing me to query databases and unearth critical insights.
+**PostgreSQL**: My chosen database management system, ideal for handling job posting data.
+**Visual Studio Code**: My go-to for database management and executing SQL queries. 💻
+**Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking. 📊
+# Data Used 📂
 The data I used was provided by the course i followed to complete this project: https://www.youtube.com/watch?v=7mz73uXD9DA 
 # The analysis 
 1. The first analysis was focusing on the highest paying company names, IT skills and in North America as an analyst
