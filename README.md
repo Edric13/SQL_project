@@ -11,8 +11,11 @@ During a pause in my career, I decided to explore the IT skills that the job mar
 # Tools I Used 🛠️
 
 **SQL**: The backbone of my analysis, allowing me to query databases and unearth critical insights.
+
 **PostgreSQL**: My chosen database management system, ideal for handling job posting data.
+
 **Visual Studio Code**: My go-to for database management and executing SQL queries. 💻
+
 **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking. 📊
 # Data Used 📂
 The data I used was provided by the course i followed to complete this project: https://www.youtube.com/watch?v=7mz73uXD9DA 
